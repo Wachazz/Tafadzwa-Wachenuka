@@ -1,42 +1,54 @@
 # Tafadzwa-Wachenuka
 Hello World This Is My Profile
 
-# 👋 Hello, I'm [Your Name]  
-**Embedded Systems Engineer | Data Alchemist | IoT Developer**  
+# 👨‍💻 TAFADZWA WACHENUKA
+**Electronics Engineer | Embedded Systems Developer | Renewable Energy Innovator**  
 
-⚡ **C/C++** for microcontrollers | 🐍 **Python** for data & automation | 🌐 **IoT** solutions for real-world problems  
-
----
-
-### 🛠️ **Tech Stack**  
-#### **Embedded & Hardware**  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) 
-![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics) 
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino)  
-
-#### **Data & Automation**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python)  
-
-#### **Tools**  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code) 
-![PlatformIO](https://img.shields.io/badge/-PlatformIO-FFD700?logo=platformio) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)  
+⚡ **C/C++** for microcontrollers | 🌞 **Renewable Energy Systems** | 📊 **Python for Data Analysis** | 🏆 **Award-Winning Solutions**
 
 ---
 
-### 🚀 **Projects**  
+## 🔥 **Technologies & Expertise**
 
-#### **1. Smart Energy Monitor (ESP32 + Python Dashboard)**  
+### **Embedded & IoT Development**
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
+### **Renewable Energy Tech**
+![Solar Power](https://img.shields.io/badge/Solar-FFD43B?logo=solarpower)
+![Energy Storage](https://img.shields.io/badge/Battery_Systems-4285F4)
+![Power Electronics](https://img.shields.io/badge/Power_Electronics-FF6B6B)
+
+### **Data Analysis & Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python)
+
+---
+
+## 🏆 **Awards & Recognitions**
+- **Earthshot Prize Nominee** (2023) - For IntelliPowerTrack Inverter
+- **National Innovation Award** - Smart Forest IoT System
+- **Best Energy Hack** - African Tech Summit 2022
+
+---
+
+## 🚀 **Featured Projects**
+
+### 1. **IntelliPowerTrack Inverter (AI-Optimized Solar Tech)**
 ```python
-# Data visualization snippet (Python)
+# AI-based solar optimization snippet
 import pandas as pd
-import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestRegressor
 
-energy_data = pd.read_csv("sensor_readings.csv")
-plt.plot(energy_data["timestamp"], energy_data["power_usage"], label="Real-time Power")
-plt.title("Energy Consumption Dashboard")
-plt.show()
+# Load solar generation data
+data = pd.read_csv('solar_data.csv')
+X, y = data[['irradiance', 'temp']], data['output']
+
+# Train model
+model = RandomForestRegressor()
+model.fit(X, y)
+print("AI model ready for real-time optimization!")
