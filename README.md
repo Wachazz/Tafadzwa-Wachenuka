@@ -1,3 +1,4 @@
+
 # 👨‍🔧 TAFADZWA WACHENUKA  
 **Electronics Engineer | Renewable Energy Innovator | Robotics Enthusiast**  
 
@@ -56,16 +57,6 @@
 
 ---
 
-## 📊 **GitHub Analytics**  
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=highcontrast&hide_border=true&background=0D1117)](https://git.io/streak-stats)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true)](https://github.com/yourusername)
-
-</div>
-
----
-
 ## 🌐 **Let's Collaborate!**  
 <p align="center">
   <a href="mailto:tafadzwajwwachenuka@gmail.com">
@@ -86,3 +77,4 @@ while(true) {
   build_robotic_solutions();
   impact_communities();
 }
+
