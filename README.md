@@ -1,4 +1,3 @@
-
 # 👨‍🔧 TAFADZWA WACHENUKA  
 **Electronics Engineer | Renewable Energy Innovator | Robotics Enthusiast**  
 
@@ -59,11 +58,11 @@
 
 ## 🌐 **Let's Collaborate!**  
 <p align="center">
-  <a href="mailto:tafadzwajwwachenuka@gmail.com">
+  <a href="mailto:tafadzwa.wachenuka@grumiumtech.co.zw">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/tafadzwa-wachenuka-b5573b200?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://linkedin.com/in/tafadzwa-wachenuka-b5573b200">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="http://grumiumtech.co.zw/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome" alt="Portfolio">
@@ -77,4 +76,3 @@ while(true) {
   build_robotic_solutions();
   impact_communities();
 }
-
