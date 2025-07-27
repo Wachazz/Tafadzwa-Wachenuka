@@ -1,4 +1,3 @@
-
 # 👨‍🔧 TAFADZWA WACHENUKA  
 **Electronics Engineer | Renewable Energy Innovator | Robotics Enthusiast**  
 
@@ -31,12 +30,13 @@
 ## 🚀 **Featured Projects**  
 <div align="center">
 
-| Project | Description | Technologies | Demo |
-|---------|-------------|--------------|------|
-| **IntelliPowerTrack Inverter** | AI-optimized solar inverter for max efficiency | ![Python](https://img.shields.io/badge/-AI/ML-FFD700) ![STM32](https://img.shields.io/badge/-STM32-03234B) | [🌐 Live Demo](http://grumiumtech.co.zw) |
-| **Smart Forest IoT** | Real-time carbon monitoring with LoRaWAN | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C) ![LoRa](https://img.shields.io/badge/-LoRaWAN-9999FF) | [📸 Gallery](#) |
-| **Industrial Robotics Arm** | 6-DOF arm for waste sorting | ![ROS](https://img.shields.io/badge/-ROS-22314E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D) | [🎥 Video Demo](#) |
-| **Battery Management System** | Li-ion monitoring for solar storage | ![C++](https://img.shields.io/badge/-C++-00599C) ![Modbus](https://img.shields.io/badge/-Modbus-FF0000) | [📊 Dashboard](#) |
+| Project | Description | Technologies | 
+|---------|-------------|--------------|
+| **IntelliPowerTrack Inverter** | AI-optimized solar inverter for max efficiency | ![Python](https://img.shields.io/badge/-AI/ML-FFD700) ![STM32](https://img.shields.io/badge/-STM32-03234B) | 
+| **Smart Grid Analytics** | AI-driven grid stability prediction for renewables | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00) ![Grafana](https://img.shields.io/badge/-Grafana-F46800) | 
+| **Smart Forest IoT** | Real-time carbon monitoring with LoRaWAN | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C) ![LoRa](https://img.shields.io/badge/-LoRaWAN-9999FF) | 
+| **Industrial Robotics Arm** | 6-DOF arm for waste sorting | ![ROS](https://img.shields.io/badge/-ROS-22314E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D) | 
+| **Battery Management System** | Li-ion monitoring for solar storage | ![C++](https://img.shields.io/badge/-C++-00599C) ![Modbus](https://img.shields.io/badge/-Modbus-FF0000) | 
 
 </div>
 
@@ -86,4 +86,3 @@ while(true) {
   build_robotic_solutions();
   impact_communities();
 }
-
